@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BTECH CSE\\sem 5\\.NET\\pr4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C17490-BCCC-4DD5-8727-59603B8DFB4E}|pr4\\pr4.csproj|e:\\btech cse\\sem 5\\.net\\pr4\\pr4\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{51C17490-BCCC-4DD5-8727-59603B8DFB4E}|pr4\\pr4.csproj|solutionrelative:pr4\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C17490-BCCC-4DD5-8727-59603B8DFB4E}|pr4\\pr4.csproj|E:\\BTECH CSE\\sem 5\\.NET\\pr4\\pr4\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C17490-BCCC-4DD5-8727-59603B8DFB4E}|pr4\\pr4.csproj|solutionrelative:pr4\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "E:\\BTECH CSE\\sem 5\\.NET\\pr4\\pr4\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "pr4\\WebForm1.aspx.cs",
+              "ToolTip": "E:\\BTECH CSE\\sem 5\\.NET\\pr4\\pr4\\WebForm1.aspx.cs",
+              "RelativeToolTip": "pr4\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T07:56:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "E:\\BTECH CSE\\sem 5\\.NET\\pr4\\pr4\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "pr4\\WebForm1.aspx",
+              "ToolTip": "E:\\BTECH CSE\\sem 5\\.NET\\pr4\\pr4\\WebForm1.aspx",
+              "RelativeToolTip": "pr4\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-19T07:55:43.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
